@@ -27,6 +27,6 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth" 
-  uri              : https://virtualexplorer-m1.github.io  # URL
+  uri              : https://virtualexplorer-m1.github.io/  # URL
   email            : "none@example.org" 
  
